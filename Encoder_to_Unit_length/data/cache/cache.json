@@ -1,0 +1,94 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Encoder_to_Unit_length\\data\\cache\\arduino.esp8266.com\\stable\\package_esp8266com_index.json",
+    "eTag" : "5eac9930-193c2",
+    "md5" : "MD5:9347aeefb503b451fafa2f17a010544e",
+    "createdAt" : "2020-05-05T00:27:51.069",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2020-05-05T00:37:51.069"
+  }, {
+    "remoteURL" : "https://raw.githubusercontent.com/wiki/tobozo/Arduino/package_deauther_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Encoder_to_Unit_length\\data\\cache\\raw.githubusercontent.com\\wiki\\tobozo\\Arduino\\package_deauther_index.json",
+    "eTag" : "W/e9531b104342d7bfbee3a54b9d2b661a882288f2d415162fb057a9252385623e",
+    "md5" : "MD5:19c4f6da58171720e046e9fd9f0f6e61",
+    "createdAt" : "2020-05-05T00:27:52.163",
+    "cacheControl" : {
+      "maxAge" : 300,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2020-05-05T00:32:52.163"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Encoder_to_Unit_length\\data\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "36e2e4a5f82b5df23fd4a387d18f8e29",
+    "md5" : "MD5:36e2e4a5f82b5df23fd4a387d18f8e29",
+    "createdAt" : "2020-05-05T00:28:03.33",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2020-05-05T04:28:03.330"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Encoder_to_Unit_length\\data\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "1d601242706b48fb2b95a9165330807d",
+    "md5" : "MD5:1d601242706b48fb2b95a9165330807d",
+    "createdAt" : "2020-05-05T00:27:56.427",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2020-05-05T01:27:56.427"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Encoder_to_Unit_length\\data\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "78efc690cbc48f9ec0cf94be74a15e58",
+    "md5" : "MD5:78efc690cbc48f9ec0cf94be74a15e58",
+    "createdAt" : "2020-05-05T00:28:04.509",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2020-05-05T04:28:04.509"
+  }, {
+    "remoteURL" : "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Encoder_to_Unit_length\\data\\cache\\raw.githubusercontent.com\\espressif\\arduino-esp32\\gh-pages\\package_esp32_index.json",
+    "eTag" : "W/d048d1eef84e09612f7f9fff67f520c6e6ae18505b7b8c563a442e943cc79f59",
+    "md5" : "MD5:679997c493a03acebb280957acc01eae",
+    "createdAt" : "2020-05-05T00:27:52.429",
+    "cacheControl" : {
+      "maxAge" : 300,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2020-05-05T00:32:52.429"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Encoder_to_Unit_length\\data\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "c6204a924d0c49bd87097d95a17e0061",
+    "md5" : "MD5:c6204a924d0c49bd87097d95a17e0061",
+    "createdAt" : "2020-05-05T00:27:55.885",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2020-05-05T01:27:55.885"
+  } ]
+}
